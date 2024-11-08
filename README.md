@@ -3,7 +3,7 @@
 Bienvenue dans ce tutoriel consacré à la présentation du processus de conception
 d'un système de lecteur vocal texte-parole en HTML, CSS, JS pour Chrome.
 
-Création d'une extension Chrome
+# Création d'une extension Chrome
 
 * Nous créons le fichier (mainfest.json) pour éditer la description et la configuration de l'extension.
 
