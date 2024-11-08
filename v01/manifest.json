@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "ReadySpeaker",
+  "description": "Système de lecteur vocal de texte-parole",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "img/icon-48.png"
+  }
+}
